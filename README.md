@@ -1,1 +1,2 @@
-# gta4l_releases
+# releases
+My releases repo
